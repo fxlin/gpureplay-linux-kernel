@@ -1,0 +1,10 @@
+part of the GPUreplay project
+
+containing recording for gpu replay
+code: cf ./drivers/gpu/drm/v3d/
+
+for recording (tracing) API, search for trace_v3d_...
+e.g.  trace_v3d_mmu_flush_begin
+
+xzl, 5-3-25
+
